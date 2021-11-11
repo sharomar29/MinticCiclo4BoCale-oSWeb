@@ -1,0 +1,14 @@
+Mi nombre es Danny Puin, creatico y colaborativo, tengo 26 años, actualmente estoy culminando la carrera ingenieria de sistemas.
+
+Trabajo para una entidad financiera desempeñandome en el rol de
+cifras y analitica, generando y extrayendo información para transformarla
+en datos utiles para la entidad en visualizadores,codigo python, modelamiento para procesos predictivos, descriptivos, entre otros y
+por medio de consultas SQL (Impala).
+
+También estoy cursando 11 semestre de ingenieria de sistemas y en
+proceso de trabajo de grado.
+
+Participo activamente en el equipo BocaleñosWeb.
+
+Mi rol a desempeñar en el ciclo 4a (Web) es de Administrador de BD,
+Gestionando y disponiendo del motor de bases de datos para el proyecto de desarrollo de software.
