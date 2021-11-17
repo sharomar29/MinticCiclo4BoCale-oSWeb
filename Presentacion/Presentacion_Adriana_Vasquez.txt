@@ -1,0 +1,10 @@
+Descripción del Proyecto
+
+El proyecto del ciclo 4, corresponde al desarrollo de una aplicación web que tiene por objetivo diseñar un modelo de sistema de información que soporte la gestión de proyectos de investigación y mejore los procesos.
+Este proyecto se fundamenta en el trabajo interdisciplinario, empleando la metodología Scrum y lenguajes de programación como JavaScritp, TypeScritp, NodeJs, entre otros.  Durante el desarrollo del proyecto, se llevarán a cabo una serie de reuniones donde se planearán las tareas a realizar e acuerdo con los objetivos semanales, cuyas actividades serán asignadas de acuerdo con el rol de cada colaborador.  Así mismo, se realizará un entrega semanal (Sprint) con las tareas desarrolladas para evaluar el cumplimiento de los objetivos propuestos para la semana.
+
+Presentación.
+
+Mi nombres es Adriana Vásquez Bustos, Contadora Pública especialista en Revisoría Fiscal y Auditoría Forense; Funcionaria del Estado con experiencia en procesos contables y  auditoría. Soy de la ciudad de Cali, madre de dos hijos.  Este es mi primer acercamiento al mundo de la programación, del cual espero obtener conocimientos que me permitan poder laborar desde mi casa para poder atender las necesidades de mi familia, en especial las de mi hijo menor que estudia mediante la metodología homeschooling, y apoyar a mi hija con su emprendimiento.
+
+Mi rol para este proyecto es “Scrum Master”,  por lo cual soy la encargada de gestionar el proceso Scrum (ceremonias y actividades) y ayudar al equipo a autogestionar los impedimentos que se puedan presentar en cada sprint, dificultando la ejecución de las tareas y que puedan afectar  la entrega del producto. Por lo tanto, mi misión es que el equipo BoCaleñoS Web alcance los objetivos propuestos en cada Daily Planning y definidos en el Product Backlog.
